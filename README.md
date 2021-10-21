@@ -60,8 +60,8 @@ mjhubli1999@gmail.com
 |Course|Year of Passing|Board/University/Institute|%/CGPA|
 |--- |---|---|---|
 |Bachelor Of Engineering  (Mechanical)|2021|CMR Institute of Technology, Bengaluru, Karnataka|8.86|
-|Intermediate|2017|Narayana PU College, Bengaluru, Karnataka|83.87%| 
-|Senior Secondary|2015|Poorna Prajna Education Centre, Bengaluru, Karnataka|87.63%|
+|Pre-University Course|2017|Narayana PU College, Bengaluru, Karnataka|83.87%| 
+|Secondary School|2015|Poorna Prajna Education Centre, Bengaluru, Karnataka|87.63%|
 
 
 **Certifications**
