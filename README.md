@@ -1,10 +1,11 @@
-Mithilesh Hubli
-Mechanical Engineer
+# Mithilesh Hubli  
+#### Bachelor of Engineering (Mech)
 
-Address              Bengaluru, Karnataka, 560075
-Phone                +91 9972275521
-Email                  mjhubli1999@gmail.com
-College Email    mith17me@cmrit.ac.in
+**Address**                  &nbsp; Bengaluru, Karnataka, 560075  
+**Phone**                    &nbsp; +91 9972275521  
+**Email**                    &nbsp; mjhubli1999@gmail.com  
+**College Email**            &nbsp; mith17me@cmrit.ac.in  
+
 
 
 
@@ -17,7 +18,7 @@ RE: Software Graduate Trainee
 Dear sir/madam,
 
 
-After learning of the Software Graduate Trainee opening with Ontum Education Private Limited, I am attaching my resume in consideration for this role. I graduated from CMR Institute of Technology with a B.E in Mechanical Engineering. I have researched and learned a great deal about your organisation's mission and I am confident that my background and attributes will bring further support of your company's values.
+After learning of the Software Graduate Trainee opening with Ontum Education Private Limited, I am attaching my resume in consideration for this role. I graduated from **CMR Institute of Technology** with a B.E in Mechanical Engineering. I have researched and learned a great deal about your organisation's mission and I am confident that my background and attributes will bring further support of your company's values.
 
 Being highly attentive to detail, passionate about applying engineering thoughts in any field, I strive for accuracy and consistency in my daily individual performance, team contributions, and task completion. Further, I offer communication, time-management and scheduling flexibility. I aim to contribute dedication   and hard work to support continuous improvement.
 
@@ -26,6 +27,6 @@ I look forward to speaking with you about my academic and professional backgroun
 Thank you for your time and consideration.
 
 
-Sincerely,
+Sincerely,  
 MITHILESH HUBLI
 
