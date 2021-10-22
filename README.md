@@ -84,11 +84,11 @@ mjhubli1999@gmail.com
 - Workshop on Geographical Indication (2018).  
 
 **Final Year Project**  
-**Objective**:
+***Objective***:
 We targeted to develop a cost effective nano composite based catalytic converter for exhaust of automobiles which is aimed to reduce NOx (Nitrogen Oxide) emission there by contributing to increase in environmental health.  
 
 As a team member, my contribution was remarkable which included synthesis of the catalyst, filtration of the catalyst, heat treatment process, grinding the sample for X-Ray diffraction process, calculation of grain size of the catalyst using Origin software, development of the catalytic convertor for the purpose of testing and finally writing the research paper for the same. Thus was appreciated by the professors in the colleges.  
-**Technologies:**   
+***Technologies:***   
 - X-Ray Diffractometer to determine crystallinity of the catalyst prepared.  
 - Muffle Furnace for heat treatment of the catalyst.  
 - Ph meter for chemical synthesis of the catalyst.  
@@ -96,7 +96,7 @@ As a team member, my contribution was remarkable which included synthesis of the
 - BET surface analyser to determine surface size of the catalyst.  
 - Origin software to plot the graphs.  
 
-**Result**:  
+***Result***:  
 External‌ ‌exhaust‌ ‌filter‌ ‌built‌ ‌was‌ ‌tested‌ ‌and‌ ‌found‌ ‌that‌ 50%‌ ‌NOx‌ ‌gas‌ ‌reduction‌ took‌ ‌place‌ ‌from‌ ‌the‌ ‌exhaust‌ ‌of‌ ‌automobiles.‌  
 
 *Skills* :The project helped me to gain an in-depth knowledge in Nano-materials, various softwares and also achieve good results.
@@ -112,10 +112,10 @@ Also conducted workshops for the students on “Introduction to Python”, “In
 *Skills* :The project helped me to enhance the proficiency in SolidWorks and Python, helped to improve on soft skills and communication. 
 
 **Extra Curricular Activities**  
-**SPORTS**  
+***Sports***  
 - Professional soccer player and have officially played for C division clubs.(2017,2018)  
 - Played for the CMRIT college soccer team.  
-**AWARDS**  
+***Awards**  
 - Certified for securing winner position at University Visvesvaraya College of Engineering soccer  
   tournament.(2019)  
 - Certified for securing runner-up position at RV college of engineering  
@@ -124,7 +124,7 @@ Also conducted workshops for the students on “Introduction to Python”, “In
 - Certified for securing runner-up position in divisional level soccer  
   at school level.(2013-14)  
   
-**STREET THEATRE**  
+***Street Theatre***  
 - Actively participated in street theatre performances by our team at various places in Bangalore  
   during the time of Krishna Janmashatami to bring social consciousness in the society.  
 
@@ -132,11 +132,11 @@ Also conducted workshops for the students on “Introduction to Python”, “In
 Soccer, Swimming, Trekking, Movies, Social activities, Foodie  
 
 **Personal Details**  
-**Present Address**	: &nbsp;#26, Gurukrupa House, 2nd floor, GM Palya main road, New Thippasandra post,Bengaluru- 560075  
+***Present Address***	: &nbsp;#26, Gurukrupa House, 2nd floor, GM Palya main road, New Thippasandra post,Bengaluru- 560075  
 
-**DOB**		: &nbsp;02 Nov 1999  
-**Languages Known**         : &nbsp;English, Kannada, Hindi, Marathi  
-**Passport**		: &nbsp;Yet to apply  
+***DOB***		: &nbsp;02 Nov 1999  
+***Languages Known***         : &nbsp;English, Kannada, Hindi, Marathi  
+***Passport***		: &nbsp;Yet to apply  
 
 **References**  
 Is available on request basis.  
