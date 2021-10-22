@@ -76,8 +76,8 @@ mjhubli1999@gmail.com
 - Successful completion of **Introduction to programming with MATLAB** an online non-credit  
   course authorized by Vanderbilt University offered through Coursera.  
   *Skills*: MATLAB
-- Certified for participating in one week workshop on “Intensive Interactive 
-  Practice on I.C Engines” (Hands on Experience) conducted by department  
+- Certified for participating in one week workshop on **“Intensive Interactive 
+  Practice on I.C Engines”** (Hands on Experience) conducted by department  
   of Mechanical Engineering (2019).  
 - Workshop on Overview of Intellectual Property (2020).  
 - Workshop on Indian Design Patent Law and Drafting (2019).  
