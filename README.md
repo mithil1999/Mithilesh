@@ -12,13 +12,13 @@
 October 16, 2021
 
 
-RE: Software Trainee 
+RE: Trainee-Software 
 
 
 Dear sir/madam,
 
 
-After learning of the Software Trainee opening with SLK Global Solutions, I am attaching my resume in consideration for this role. I graduated from **CMR Institute of Technology** with a B.E in Mechanical Engineering. I have researched and learned a great deal about your organisation's mission and I am confident that my background and attributes will bring further support of your company's values.
+After learning of the Trainee-Software opening with SLK Global Solutions, I am attaching my resume in consideration for this role. I graduated from **CMR Institute of Technology** with a B.E in Mechanical Engineering. I have researched and learned a great deal about your organisation's mission and I am confident that my background and attributes will bring further support of your company's values.
 
 Being highly attentive to detail, passionate about applying engineering thoughts in any field, I strive for accuracy and consistency in my daily individual performance, team contributions, and task completion. Further, I offer communication, time-management and scheduling flexibility. I aim to contribute dedication   and hard work to support continuous improvement.
 
