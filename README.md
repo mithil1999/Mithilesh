@@ -41,12 +41,9 @@ mjhubli1999@gmail.com
 
 **Skills**  
 - Python  
-- Machine Learning and Deep Learning  
-- MATLAB  
-- SolidWorks  
-- SolidEdge  
-- Ansys  
-- WPLSoft  
+- SQL
+- Building Regression Models  
+- Basics of NLP    
 - MS Office(Word, Powerpoint, Excel)  
 
 **Scholastic Achievement**   
@@ -59,6 +56,7 @@ mjhubli1999@gmail.com
 **Educational Qualifications**  
 |Course|Year of Passing|Board/University/Institute|%/CGPA|
 |--- |---|---|---|
+|Pursuing Master degree in Data Science at IIITB|2022-|International Institute of Information Technology, Bengaluru, Karnataka|-|
 |Bachelor Of Engineering  (Mechanical)|2021|CMR Institute of Technology, Bengaluru, Karnataka|8.86|
 |Pre-University Course|2017|Narayana PU College, Bengaluru, Karnataka|83.87%| 
 |Secondary School|2015|Poorna Prajna Education Centre, Bengaluru, Karnataka|87.63%|
