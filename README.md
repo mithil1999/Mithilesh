@@ -1,49 +1,16 @@
-# Cover Letter  
-**Mithilesh Hubli, Bachelor of Engineering (Mech)**  
-
-**Address**                  &nbsp; Bengaluru, Karnataka, 560075  
-**Phone**                    &nbsp; +91 9972275521  
-**Email**                    &nbsp; mjhubli1999@gmail.com  
-
-
-
-
-October 16, 2021
-
-
-RE: Trainee-Software 
-
-
-Dear sir/madam,
-
-
-After learning of the Trainee-Software opening with SLK Global Solutions, I am attaching my resume in consideration for this role. I graduated from **CMR Institute of Technology** with a B.E in Mechanical Engineering. I have researched and learned a great deal about your organisation's mission and I am confident that my background and attributes will bring further support of your company's values.
-
-Being highly attentive to detail, passionate about applying engineering thoughts in any field, I strive for accuracy and consistency in my daily individual performance, team contributions, and task completion. Further, I offer communication, time-management and scheduling flexibility. I aim to contribute dedication   and hard work to support continuous improvement.
-
-I look forward to speaking with you about my academic and professional background. I am certain that my leadership and problem-solving strengths will bring an invaluable new facet to your existing team. I would like to schedule an interview to learn additional details of the position and explore the contributions I can bring to positively impact your organisation's success.
-
-Thank you for your time and consideration.
-
-
-Sincerely,  
-MITHILESH HUBLI  
-  
 # Resume
-Mithilesh Hubli– B.E(mech)                                                       
+Mithilesh Hubli– B.E(Mechanical)                                                       
 
 
 
 
 mjhubli1999@gmail.com  
 +91 9972275521
+https://www.linkedin.com/in/mithilesh-hubli-abb3841a1/
 
 **Skills**  
-- Python  
-- SQL
-- Building Regression Models  
-- Basics of NLP    
-- MS Office(Word, Powerpoint, Excel)  
+- PRIMARY : Python , SQL , Hive 
+- SECONDARY : Tableau, Cloud Computing with AWS(EMR cluster, EC2 instance, RDS, S3 bucket, Sqoop & Flume, Hbase) , MS Office(Word, Powerpoint, Excel)  
 
 **Scholastic Achievement**   
 
@@ -62,7 +29,10 @@ mjhubli1999@gmail.com
 
 
 **Certifications**
-  
+
+- Certified **SQL(Advanced)**, **SQL(Intermediate)** and **SQL(Basic)** from HackerRank.
+- Certified **Tableau Desktop Specialist**.
+- I was been rated with a 3 star from my manger for the year 2022 considering as a key member of the team. 
 - Successful completion of **The Data Science course 2021: Complete Data Science Bootcamp**, an online course offered by Udemy.    
   *Skills*: Python, Mathematical computing, Machine Learning and Deep Learning  
 - Successful completion of **Comprehensive Python Programming MasterClass**, an online course offered by Udemy.  
@@ -73,40 +43,33 @@ mjhubli1999@gmail.com
 - Successful completion of **Introduction to programming with MATLAB** an online non-credit  
   course authorized by Vanderbilt University offered through Coursera.  
   *Skills*: MATLAB
-- Certified for participating in one week workshop on **“Intensive Interactive 
-  Practice on I.C Engines”** (Hands on Experience) conducted by department  
-  of Mechanical Engineering (2019).  
-- Workshop on Overview of Intellectual Property (2020).  
-- Workshop on Indian Design Patent Law and Drafting (2019).  
-- Workshop on Geographical Indication (2018).  
 
 **Final Year Project**  
 ***Objective***:
 We targeted to develop a cost effective nano composite based catalytic converter for exhaust of automobiles which is aimed to reduce NOx (Nitrogen Oxide) emission there by contributing to increase in environmental health.  
 
-As a team member, my contribution was remarkable which included synthesis of the catalyst, filtration of the catalyst, heat treatment process, grinding the sample for X-Ray diffraction process, calculation of grain size of the catalyst using Origin software, development of the catalytic convertor for the purpose of testing and finally writing the research paper for the same. Thus was appreciated by the professors in the colleges.  
-***Technologies:***   
-- X-Ray Diffractometer to determine crystallinity of the catalyst prepared.  
-- Muffle Furnace for heat treatment of the catalyst.  
-- Ph meter for chemical synthesis of the catalyst.  
-- Solidworks tool to design the catalytic convertor.  
-- BET surface analyser to determine surface size of the catalyst.  
-- Origin software to plot the graphs.  
-
+As a team member, my contribution was remarkable which included synthesis of the catalyst, filtration of the catalyst, heat treatment process, grinding the sample for X-Ray diffraction process, calculation of grain size of the catalyst using Origin software, development of the catalytic convertor for the purpose of testing and finally writing the research paper for the same. Thus was appreciated by the professors in the colleges.
 ***Result***:  
 External‌ ‌exhaust‌ ‌filter‌ ‌built‌ ‌was‌ ‌tested‌ ‌and‌ ‌found‌ ‌that‌ 50%‌ ‌NOx‌ ‌gas‌ ‌reduction‌ took‌ ‌place‌ ‌from‌ ‌the‌ ‌exhaust‌ ‌of‌ ‌automobiles.‌  
 
 *Skills* :The project helped me to gain an in-depth knowledge in Nano-materials, various softwares and also achieve good results.
 
 **Work Experience**  
-Previous Employer	: Aqmenz Automation Pvt Ltd, Bengaluru  
-Designation			: Network Mentor  
-Duration			: Nov 2019 – Feb 2021  
-Details:  
-As a Network Mentor I was responsible for mentoring more than twenty students on industrial projects like “Hydraulic Clamping Cylinder”, ”Industrial Hinge”, “Gears”. Collaborated with the instructors and guided the students in using the software SolidWorks. Was responsible to approve the projects and completion of the certifications of the students.
-Also conducted workshops for the students on “Introduction to Python”, “Industrial Automation” at Reva University.
+***Previous Employer***	: LTIMindtree, Bengaluru  
+***Designation***			: Data Engineer  
+***Duration***			: Dec 2021 – currently working  
+***Projects***:
+BO Migration Project
+Worked for a Banking domain project. The project was for a period of 2 years and it was a BO – BI Migration Project(SAP to Tableau). 
 
-*Skills* :The project helped me to enhance the proficiency in SolidWorks and Python, helped to improve on soft skills and communication. 
+As in the first year of the project I was working for the ETL team and our aim was to migrated all the data from RDBMS(Oracle) to Datawarehouse using HIVE. I created pipelines using the web application c3po Designer tool and using the Hive platform we used to test our pipelines. I also worked on the web application Autosys which is used to trigger the jobs. Additionally I have a good knowledge in Bitbucket, Teamcity, Udeploy, Tectia, IdeaIntellij. Handled complex views , Stored Procs, Reports and complete end to end ETL process.
+
+In the second phase of the project I worked for the Performance Team where in I had to fine tune queries of the reports which failed in the production environment due to latency. Partially worked on Tableau as well to develop reports. 
+
+In the third phase I worked purely on Complex Report Development using SQL. Since most of the complex reports had cross tables and many variable calculations the reports failed in prod env due to latency as it was a Tableau Tool limitation. Hence as an alternate solution we developed the report with exact data as in BO using SQL queries and implemented Stored Procs on it which was then called in Tableau. 
+
+
+*Skills* :The project helped me to enhance the proficiency in SQL, Hive, Tableau and ETL concepts I additionally gained softskills and communication knowledge by interacting with the clients. 
 
 **Extra Curricular Activities**  
 ***Sports***  
