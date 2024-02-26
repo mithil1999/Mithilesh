@@ -97,7 +97,7 @@ Soccer, Swimming, Trekking, Movies, Social activities, Foodie
 
 ***DOB***		: &nbsp;02 Nov 1999  
 ***Languages Known***         : &nbsp;English, Kannada, Hindi, Marathi  
-***Passport***		: &nbsp;Yet to apply  
+***Passport***		: &nbsp;Available 
 
 **References**  
 Is available on request basis.  
