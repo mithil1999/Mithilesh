@@ -4,7 +4,6 @@
 **Address**                  &nbsp; Bengaluru, Karnataka, 560075  
 **Phone**                    &nbsp; +91 9972275521  
 **Email**                    &nbsp; mjhubli1999@gmail.com  
-**College Email**            &nbsp; mith17me@cmrit.ac.in  
 
 
 
